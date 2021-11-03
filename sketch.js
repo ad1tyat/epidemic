@@ -3,7 +3,7 @@
 // https://thecodingtrain.com/CodingChallenges/098.2-quadtree.html
 // https://thecodingtrain.com/CodingChallenges/098.3-quadtree.html
 
-let particleCount = 1000;
+let particleCount = 100;
 let particles = []; // ArrayList for all "things"
 
 let framerateP;
